@@ -87,7 +87,6 @@ A great Stanford online course: https://www.coursera.org/learn/machine-learning
 
 
 ##### A Comprehensive Guide to Building a Scalable Web App
-[architecture/devops]
 https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1
 
 This explains very well the concepts behind building the infrasctuture and architecture behind a web app. A good part of the article is not AWS specific.
