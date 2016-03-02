@@ -8,56 +8,42 @@ Most of this stuff would be suitable for beginner or intermediate software engin
 ## Concepts
 
 
-##### Code Complete
-
-http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+##### Code Complete [link](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
 Read this one book first.
 It is mostly about "construction", design, code management and better decision making on how to implement. It is more about concepts than Clean Code. Other topics include when to stop designing and start coding, when to write a class and when note, how to work with input data, how to debug, ...
 
 
-##### Clean Code
-
-http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+##### Clean Code [link](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 Read this one after Code Complete.
 This is about writing code specifically. It's about very practical topics such as naming, function size, how many arguments to use and why.
 
 
-##### The Clean Coder
-
-http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073
+##### The Clean Coder [link](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073)
 
 Read this one after Clean Code.
 This book is about how to behave like a professional engineer.
 
-##### Martin Fawler
-
-https://twitter.com/martinfowler
-http://www.martinfowler.com/
+##### Martin Fawler [twitter](https://twitter.com/martinfowler) [blog](http://www.martinfowler.com/)
 
 Read his work, watch his talks.
 
 ## Front-End Development
 
 
-##### MDN: Mozilla Developer Network
-
-https://developer.mozilla.org/en-US/docs/Web.
+##### MDN: Mozilla Developer Network [link](https://developer.mozilla.org/en-US/docs/Web.)
 
 High quality collaborative documentation on web technologies (HTML, CSS, JavaScript, APIs, Graphics, ...)
 Use this when you have a question about front-end fundamentals (or not).
 
 
-##### Front-end Handbook
-
-https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+##### Front-end Handbook [link](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 
 A nice quick high level introduction for learning about the practice of front-end development.
 
 
-##### Good UI
-http://www.goodui.org/
+##### Good UI [link](http://www.goodui.org/)
 
 A great list of UI best practices.
 
@@ -65,10 +51,7 @@ A great list of UI best practices.
 ## Back-End Development
 
 
-##### Learn about API, REST, Web Standards.
-
-http://codeplanet.io/principles-good-restful-api-design/
-http://jsonapi.org/
+##### Learn about API, REST, Web Standards. [link](http://codeplanet.io/principles-good-restful-api-design/) [link](http://jsonapi.org/)
 
 Note: When designing both front and back-end: start with the front-end to help designing the API interface.
 
@@ -86,8 +69,7 @@ A great Stanford online course: https://www.coursera.org/learn/machine-learning
 ## Infrasctructure
 
 
-##### A Comprehensive Guide to Building a Scalable Web App
-https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1
+##### A Comprehensive Guide to Building a Scalable Web App [link](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
 
 This explains very well the concepts behind building the infrasctuture and architecture behind a web app. A good part of the article is not AWS specific.
 
@@ -98,9 +80,7 @@ This explains very well the concepts behind building the infrasctuture and archi
 ## Javascript
 
 
-##### Essential Javascript links
-
-https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
+##### Essential Javascript links [link](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
 
 "A curated list by Eric Elliott and friends. This is a very exclusive collection of only must-have JavaScript links."
 
@@ -108,30 +88,22 @@ https://github.com/ericelliott/essential-javascript-links#essential-javascript-l
 ## Python
 
 
-##### The Zen of Python
-
-https://www.python.org/dev/peps/pep-0020/
+##### The Zen of Python [link](https://www.python.org/dev/peps/pep-0020/)
 
 Much like the ten commandments for Python developers
 
 
-##### The Hitchhiker’s Guide to Python!
-
-http://docs.python-guide.org/en/latest/
+##### The Hitchhiker’s Guide to Python! [link](http://docs.python-guide.org/en/latest/)
 
 This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 
 
-##### Python tips. intermediate Python
-
-http://book.pythontips.com/en/latest/
+##### Python tips. intermediate Python [link](http://book.pythontips.com/en/latest/)
 
 The topics which are discussed in this book open up your mind towards some nice corners of Python language.
 
 
-##### PEP8
-
-https://www.python.org/dev/peps/pep-0008/
+##### PEP8 [link](https://www.python.org/dev/peps/pep-0008/)
 
 A style guide for Python, written by its creator. Follow it. Use a PEP8 linter for your code.
 
