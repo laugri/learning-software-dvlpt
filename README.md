@@ -47,7 +47,7 @@ A nice quick high level introduction for learning about the practice of front-en
 
 A great list of UI best practices.
 
-##### A Frotn End Engineer Manifesto [link](http://f2em.com/)
+##### A Front End Engineer Manifesto [link](http://f2em.com/)
 
 A nice reminder of what is important in front-end development.
 
